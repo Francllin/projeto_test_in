@@ -13,14 +13,3 @@ Entao é apresentado o seguinte texto
 """
 MAIS DE 15 ANOS DE ATUAÇÃO
 """
-
-
-
-
-
-# Funcionalidade 2:
-# Acessar o site https://enterprise-demo.orangehrmlive.com e efetuar o login utilizando as
-# credenciais do funcionário Peter. Adicione um “Disciplinary Case” no setor “Discipline” e
-# valide se concluiu com sucesso a nota.
-# Desejável: Criar um cenário de login negativo (insucesso).
-# Requerido: Utilizar o conceito de Page-Objects com a gem SitePrism e Gemfile. 

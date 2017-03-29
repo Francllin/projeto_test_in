@@ -20,14 +20,14 @@ find(:css, '#addCase_employeeName_empName').set("cas")
 sleep 1
 first(:css, '.ac_over').click
 sleep 1
-find(:css, '#addCase_caseName').set("Disciplinary Case text")
+find(:css, '#addCase_caseName').set(@name)
 sleep 1
 find(:css, '#addCase_description').set(@lorem)
 end
 
 Quando(/^clico no botão para salvar$/) do
 click_button 'Save'
-sleep 5
+sleep 2
 end
 
 Então(/^é concluida com sucesso a nota$/) do
