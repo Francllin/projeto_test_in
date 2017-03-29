@@ -8,7 +8,7 @@ Funcionalidade: Consulta planets
 # superior ao armazenado. Validar o statuscode e a mensagem exibida.
   
 @get_planets
-Cenario: Consulta de all planets
+Cenario: Consulta e validação de statuscode de planets
   Dado que faço uma consulta e armazeno o valor do campo count
   Quando faço uma consulta passando um valor aleatório superior ao armazenado do campo count
   Então o status code é "404"
