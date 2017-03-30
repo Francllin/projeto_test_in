@@ -1,5 +1,5 @@
 # Projeto de teste
-"""
+
 Passo a passo para o desenvolvimento e execução do projeto:
 
 1- para executar o projeto é necessário instalar algumas estruturas que roda RUBY.
@@ -33,4 +33,4 @@ link: https://github.com/thiagomarquessp/calabash_android_for_all
 - Depois é só rodar com o comando (calabash-android run com.orgzly_60.apk features/specification/Cadastro.feature --tag “nome da tag que esta nas features”)
 
     QUALQUER DUVIDA É SÓ FALAR :)
-"""
+
