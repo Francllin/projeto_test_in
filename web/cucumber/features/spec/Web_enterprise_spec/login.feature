@@ -1,7 +1,7 @@
 #language: pt
 
 @geral
-Funcionalidade: Efetuar o login utilizando as credenciais
+Funcionalidade: Efetuar o login
 
 # Funcionalidade 2:
 # Acessar o site https://enterprise-demo.orangehrmlive.com e efetuar o login utilizando as
