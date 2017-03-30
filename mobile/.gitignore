@@ -1,0 +1,33 @@
+reports/*
+.DS_Store
+/tmp
+/log/*.log
+/.idea/*
+/log/*.log
+/doc/*
+/public/assets
+/out
+/spec/out
+/node_modules
+/screenshots
+*.html
+*.png
+features_report.html
+features_report.json
+*.gem
+*.rbc
+/.config
+/coverage/
+/InstalledFiles
+/pkg/
+/spec/reports/
+/spec/examples.txt
+/test/tmp/
+/test/version_tmp/
+/tmp/
+/npm-debug.log
+./screenshot
+
+
+# Used by dotenv library to load environment variables.
+# .env
